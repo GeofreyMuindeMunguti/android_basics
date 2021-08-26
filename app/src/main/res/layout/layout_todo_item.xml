@@ -8,7 +8,7 @@
     android:paddingEnd="8dp">
 
     <TextView
-        android:id="@+id/tvTodoTItle"
+        android:id="@+id/tvTodoTitle"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:text="Todo item Sample"
@@ -25,4 +25,5 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
